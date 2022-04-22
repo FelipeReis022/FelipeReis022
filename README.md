@@ -6,7 +6,6 @@
 
 <h3>- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Estudante python</h3>
 
-
 <div align="center">
   <a href="https://github.com/FelipeReis022">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeReis022&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
