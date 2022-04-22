@@ -1,7 +1,7 @@
 <h1 align="center">
   E ae!! Me chamo Felipe, tudo bem?
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <img src="https://github.com/FelipeReis022/FelipeReis022/blob/main/IMG-3868.PNG">
+  <img width="200" src="https://github.com/FelipeReis022/FelipeReis022/blob/main/IMG-3868.PNG">
   
 </h1> 
 
