@@ -8,7 +8,7 @@
 </h1> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&width=260&lines=Estudante+python;Em+breve+dev+Front-end">
+  <img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&width=260&lines=Estudante+Javascript;Em+breve+dev+Front-end">
 </p>
 
 <div align="center">
