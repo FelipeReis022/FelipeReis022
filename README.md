@@ -1,4 +1,4 @@
-<p align="center"; background: #ffffff>
+<p align="center">
   <img width="200" src="https://github.com/FelipeReis022/FelipeReis022/blob/main/IMG-3868.PNG">
  </p>
  
@@ -13,12 +13,14 @@
 
 <div align="center">
   <a href="https://github.com/FelipeReis022">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeReis022&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeReis022&layout=compact&langs_count=7&theme=react"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeReis022&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeReis022&layout=compact&langs_count=7&theme=react"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Felipe-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Felipe-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Felipe-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Felipe-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Felipe-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Felipe-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
