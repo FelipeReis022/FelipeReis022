@@ -3,12 +3,12 @@
  </p>
  
 <h1 align="center">
-  E ae!! Me chamo Felipe, tudo bem?
+  E ae!! Bem vindo ao meu GitHub, tudo bem?
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
 </h1> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&width=260&lines=Estudando+Javascript+No momento;Futuro+dev+Back-end">
+  <img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&width=260&lines=Estudando+Javascript+No+momento;Futuro+dev+Back-end">
 </p>
 
 <div align="center">
